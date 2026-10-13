@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="480"
+    alt="Animated developer coding"
+  />
+</p>
+
+<h1 align="center">Hi 👋, I'm Anas Baig</h1>
+<h3 align="center">
+  🚀 Frontend Developer | Shopify Developer | Full-Stack Enthusiast
+</h3>
+
 # 👋 Hi, I'm Anas Baig
 
 <h3 align="center">🚀 Frontend Developer | Shopify Developer | Full-Stack Enthusiast</h3>
