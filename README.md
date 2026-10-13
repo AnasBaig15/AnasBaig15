@@ -1,12 +1,3 @@
-<!-- ═══════════════ NAVY BLUE ANIMATED HEADER ═══════════════ -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000033,50:000080,100:191970&height=200&section=header&text=Anas%20Baig&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Shopify%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=17"
-    width="100%"
-    alt="Anas Baig Navy Blue Header"
-  />
-</p>
 
 <!-- ═══════════════ INTRODUCTION WITH CODING GIFS ═══════════════ -->
 
