@@ -10,46 +10,23 @@
 
 <!-- ═══════════════ INTRODUCTION WITH CODING GIFS ═══════════════ -->
 
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img
-        src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-        width="180"
-        alt="Animated coding"
-      />
-    </td>
-    <td width="50%" align="center" valign="middle">
+ <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1D4ED8&height=170&section=header&text=Anas%20Baig&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Shopify%20%7C%20Frontend%20Developer&descAlignY=58&descSize=13" width="100%" alt="Anas Baig header" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding animation" />
 
 # 👋 Hi, I'm Anas Baig
 
-### 🚀 Frontend Developer | Shopify Developer
+### Shopify Developer | Frontend Developer
 
-💻 Building modern, responsive web experiences
+Building modern, responsive, and user-friendly web experiences. 🚀
 
-🇵🇰 Based in Pakistan
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-main-seven-puce.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:annumirza71@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-7C3AED?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anas_baig354)
 
-<p>
-  <a href="https://portfolio-main-seven-puce.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-000080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-<p>
-  <a href="mailto:annumirza71@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-191970?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-</td>
-    <td width="25%" align="center" valign="middle">
-      <img
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-        width="180"
-        alt="Programmer working at a computer"
-      />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
