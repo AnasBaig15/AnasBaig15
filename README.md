@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anas Baig</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasbaig15&label=Profile%20views&color=0e75b6&style=flat" alt="anasbaig15" /> </p>
+<p align="right"> <img src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/9d3e55bb-0790-4ce1-86a6-f2061f21b96d" />
+" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasbaig15" alt="anasbaig15" /></a> </p>
 
